@@ -399,3 +399,12 @@ ion-icon {
 .usuario ion-icon {
   margin-left: 5px;
 }
+
+.curtido {
+  background-color: transparent !important;
+  color: #FF6961;
+}
+
+.salvo {
+  color: #FFB6C1;
+}
